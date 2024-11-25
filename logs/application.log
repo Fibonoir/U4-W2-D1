@@ -1,0 +1,43 @@
+2024-11-25 16:19:13 [main] ERROR esercizioUno.ArrayExample - Invalid position
+2024-11-25 16:23:11 [main] ERROR esercizioDue.FuelEfficiency - Division by zero
+2024-11-25 16:50:34 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Rossi, con saldo iniziale di 1000.0
+2024-11-25 16:50:34 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Bianchi, con saldo iniziale di 1000.0
+2024-11-25 16:50:34 [main] INFO  esercizioTre.ContoOnline - Conto online creato per Mario Bianchi, con saldo iniziale di 1000.0, massimo prelevabile: 200.0
+2024-11-25 16:50:34 [main] INFO  esercizioTre.ContoCorrente - Prelevamento riuscito per Mario Rossi Importo prelevato: 200.0, Saldo attuale: 800.0
+2024-11-25 16:50:34 [main] WARN  esercizioTre.ContoOnline - Prelevamento per Mario Bianchi Importo da prelevare: 300.0, Saldo attuale: 1000.0
+2024-11-25 16:50:34 [main] ERROR e.Exceptions.BancaException - BancaException: Importo superiore al massimo prelevabile
+2024-11-25 16:50:34 [main] ERROR esercizioTre.Main - Errore: Importo superiore al massimo prelevabile
+2024-11-25 16:50:34 [main] INFO  esercizioTre.Main - Fine transazione
+2024-11-25 16:52:09 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Rossi, con saldo iniziale di 1000.0
+2024-11-25 16:52:09 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Bianchi, con saldo iniziale di 1000.0
+2024-11-25 16:52:09 [main] INFO  esercizioTre.ContoOnline - Conto online creato per Mario Bianchi, con saldo iniziale di 1000.0, massimo prelevabile: 200.0
+2024-11-25 16:52:09 [main] INFO  esercizioTre.ContoCorrente - Prelevamento riuscito per Mario Rossi Importo prelevato: 200.0, Saldo attuale: 800.0
+2024-11-25 16:52:09 [main] WARN  esercizioTre.ContoOnline - Prelevamento online per Mario Bianchi Importo da prelevare: 300.0, Saldo attuale: 1000.0
+2024-11-25 16:52:09 [main] ERROR e.Exceptions.BancaException - BancaException: Importo superiore al massimo prelevabile
+2024-11-25 16:52:09 [main] ERROR esercizioTre.Main - Errore: Importo superiore al massimo prelevabile
+2024-11-25 16:52:09 [main] INFO  esercizioTre.Main - Fine transazione
+2024-11-25 16:54:33 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Rossi, con saldo iniziale di 1000.0
+2024-11-25 16:54:33 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Bianchi, con saldo iniziale di 1000.0
+2024-11-25 16:54:33 [main] INFO  esercizioTre.ContoOnline - Conto online creato per Mario Bianchi, con saldo iniziale di 1000.0, massimo prelevabile: 200.0
+2024-11-25 16:54:33 [main] INFO  esercizioTre.ContoCorrente - 
+Prelevamento riuscito per Mario Rossi Importo prelevato: 200.0, Saldo attuale: 800.0
+2024-11-25 16:54:33 [main] WARN  esercizioTre.ContoOnline - Prelevamento online per Mario Bianchi Importo da prelevare: 300.0, Saldo attuale: 1000.0
+2024-11-25 16:54:33 [main] ERROR e.Exceptions.BancaException - BancaException: Importo superiore al massimo prelevabile
+2024-11-25 16:54:33 [main] ERROR esercizioTre.Main - Errore: Importo superiore al massimo prelevabile
+2024-11-25 16:54:33 [main] INFO  esercizioTre.Main - Fine transazione
+2024-11-25 16:57:06 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Rossi, con saldo iniziale di 1000.0
+2024-11-25 16:57:06 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Bianchi, con saldo iniziale di 1000.0
+2024-11-25 16:57:06 [main] INFO  esercizioTre.ContoOnline - Conto online creato per Mario Bianchi, con saldo iniziale di 1000.0, massimo prelevabile: 200.0
+2024-11-25 16:57:06 [main] INFO  esercizioTre.ContoCorrente - Prelevamento riuscito per Mario Rossi Importo prelevato: 200.0, Saldo attuale: 800.0
+2024-11-25 16:57:06 [main] WARN  esercizioTre.ContoOnline - Prelevamento online per Mario Bianchi Importo da prelevare: 300.0, Saldo attuale: 1000.0
+2024-11-25 16:57:06 [main] ERROR e.Exceptions.BancaException - BancaException: Importo superiore al massimo prelevabile
+2024-11-25 16:57:06 [main] ERROR esercizioTre.Main - Errore: Importo superiore al massimo prelevabile
+2024-11-25 16:57:06 [main] INFO  esercizioTre.Main - Fine transazione
+2024-11-25 16:58:35 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Rossi, con saldo iniziale di 1000.0
+2024-11-25 16:58:35 [main] INFO  esercizioTre.ContoCorrente - Conto corrente creato per Mario Bianchi, con saldo iniziale di 1000.0
+2024-11-25 16:58:35 [main] INFO  esercizioTre.ContoOnline - Conto online creato per Mario Bianchi, con saldo iniziale di 1000.0, massimo prelevabile: 200.0
+2024-11-25 16:58:35 [main] INFO  esercizioTre.ContoCorrente - Prelevamento riuscito per Mario Rossi Importo prelevato: 200.0, Saldo attuale: 800.0
+2024-11-25 16:58:35 [main] WARN  esercizioTre.ContoOnline - Prelevamento online per Mario Bianchi Importo da prelevare: 300.0, Saldo attuale: 1000.0
+2024-11-25 16:58:35 [main] ERROR e.Exceptions.BancaException - BancaException: Importo superiore al massimo prelevabile
+2024-11-25 16:58:35 [main] ERROR esercizioTre.Main - Errore: Importo superiore al massimo prelevabile
+2024-11-25 16:58:35 [main] INFO  esercizioTre.Main - Fine transazione
